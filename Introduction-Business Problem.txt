@@ -1,0 +1,5 @@
+Introduction/Business Problem:
+
+A situation arose where a hotel company wants to build a hotel in the city of London. 
+The problem is that they do not know where is the best location for the hotel in the city. There are 33 neighborhood to choose from and the magnitude of the investment makes this choice crutial for the development of the business.
+What is the best neighborhood to build a hotel in London?
