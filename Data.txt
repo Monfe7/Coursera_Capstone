@@ -1,0 +1,7 @@
+Data:
+
+Two important pieces of data will be used throughout this project in order to obtain an answer to the question posed before: What is the best neighborhood in London to build a hotel?
+The first one is a geoJson map of the city neighborhoods with the geographical coordinates in order to identify the individual neighborhoods in a map and be able to identify venues in these neighborhoods.
+The second one and maybo most important is the data imported from the FourSquare API of all the venues in the city of London with their respective coordinates and neighberhood. 
+
+This FourSquare data will be analyzed to reach a conclusive answer to the question. Most likely neighberhoods where there are hotels will be filtered and also those where there are little to no venues. The point is to identify the best fit for the hotel's location based on how attractive or fit for tourism the venues in the neighborhoods are. For example, importance will be given to the abundance of museums places of sort and not so much to coffee shops, given that museums attract a lot of tourism.
